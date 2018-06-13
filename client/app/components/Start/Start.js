@@ -26,49 +26,52 @@ class start extends Component {
 
                 <section id="three" className="wrapper style2">
                     <div className="inner">
-                        <header className="align-center">
+                        <header className="align-center text-center">
                           <br></br>
                             <h2>Aktuelle Projekte</h2>
                         </header>
                         <div className="gallery">
                           <div className="container">
                             <div className="row">
-                              <div className="row-sm pixBox1">
+                              <div className="col">
+                                <div className="col-xs-1 pixBox1">
+                                  <br></br>
                                by XXXX
                                 <br></br>
                                 <a href="Home"> Festivals in Berlin </a>
 
-                                <br></br>
+
                               </div>
-                              <br></br>
-                              <div className="row-sm pixBox2">
+
+                              <div className="col-xs-1 pixBox2">
                                 <br></br>
                                 by XXXX
                                 <br></br>
                                 <a href="Home">Festivals in Berlin </a>
 
-                                <br></br>
+
                             </div>
-                              <br></br>
-                              <div className="row-sm pixBox3">
+
+                              <div className="col-xs-1 pixBox3">
                                 <br></br>
                                 by XXXX
                                 <br></br>
                                 <a href="Home"> Festivals in Berlin </a>
-                                <br></br>
+
                              </div>
                             </div>
-                            <br></br>
-                            <div className="col">
-                              <div className="col-sm pixBox1">
+
+
+                              <div className="col-xs-1 pixBox4">
+                                <br></br>
                                 by XXXX
                                 <br></br>
                                 <a href="Home"> Festivals in Berlin </a>
 
-                                <br></br>
+
                               </div>
-                              <br></br>
-                              <div className="col-sm pixBox2">
+
+                              <div className="col-xs-1 pixBox5">
                                 <br></br>
                                 by XXXX
                                 <br></br>
@@ -77,7 +80,7 @@ class start extends Component {
                                 <br></br>
                               </div>
                               <br></br>
-                              <div className="col-sm pixBox3">
+                              <div className="col-xs-1 pixBox3">
                                 <br></br>
                                 by XXXX
                                 <br></br>

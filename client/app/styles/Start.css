@@ -4,6 +4,11 @@
 /*
 	neuer ansatz
 */
+.inner {
+ /* background-color: #343434;; */
+  background-color: #101010;
+}
+
 .intro2 {
   padding: 6.2% 0;
   display: table;
@@ -40,21 +45,36 @@
   width: 30%;
   height: 200px;
   background: url(/assets/img/Reportage_3.jpg) no-repeat center center ;
+  margin:1%;
+  background-size: cover;
 }
 .pixBox2{
   width: 30%;
   height: 200px;
   background: url(/assets/img/foto4.jpg) no-repeat center center ;
+  margin: 1%;
+  background-size: cover;
 }
 .pixBox3{
   width: 30%;
   height: 200px;
   background: url(/assets/img/second.jpg) no-repeat center center ;
+  margin: 1%;
+  background-size: cover;
 }
 .pixBox4{
   width: 30%;
   height: 200px;
-  background: url(/assets/img/Reportage_3.jpg) no-repeat center center ;
+  background: url(/assets/img/DWE3187.jpg) no-repeat center center ;
+  margin: 1%;
+  background-size: cover;
+}
+.pixBox5{
+  width: 30%;
+  height: 200px;
+  background: url(/assets/img/Dudes.png) no-repeat center center ;
+  margin: 1%;
+  background-size: cover;
 }
 
 @media screen and (max-width: 540px){
@@ -66,5 +86,3 @@
     padding-top: 17%;
   }
 }
-
-
